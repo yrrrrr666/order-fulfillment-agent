@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.log
+node_modules/
+.impeccable/
+_work/
+.DS_Store
+Thumbs.db
